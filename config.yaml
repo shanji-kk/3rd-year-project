@@ -1,0 +1,15 @@
+path: D:\fruit
+train: images\train
+val: images\test
+
+names:
+  0: watermelon
+  1: strawberry
+  2: pinenapple
+  3: orange
+  4: mango
+  5: kiwi
+  6: cherry
+  7: Banana
+  8: avocado
+  9: Apple
